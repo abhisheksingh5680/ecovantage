@@ -12,7 +12,7 @@ import { FaChevronLeft, FaChevronRight } from "react-icons/fa";
 
 const MemberScroller = () => {
     return (
-        <section className="bg-white py-10">
+        <section className="bg-white pt-10">
             <div className="container mx-auto px-4 sm:px-10 md:px-20 lg:px-32 xl:px-40">
                 <h2 className="text-center text-2xl font-semibold text-gray-700 mb-6">
                     Members of
