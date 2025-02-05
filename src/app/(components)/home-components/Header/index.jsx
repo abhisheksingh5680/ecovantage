@@ -13,7 +13,7 @@ const Index = () => {
             <div className="bg-[#a2b45d] text-white py-2 px-4">
                 <div className="container mx-auto flex items-center justify-center">
                     <div className="flex items-center gap-2">
-                        <Image src="/assests/cloud.png" width={30} height={30} alt="phone" />
+                        <Image src="/assests/Cloud.png" width={30} height={30} alt="phone" />
                         <p className="text-sm md:text-base font-semibold">
                             10,724,707 tonnes of carbon abated
                         </p>
